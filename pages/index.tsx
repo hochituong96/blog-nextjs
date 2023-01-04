@@ -2,6 +2,7 @@ import Head from 'next/head';
 import { Footer } from '../components/Footer';
 import { Header } from '../components/Header';
 import { Post } from '../components/Post';
+import { Main } from '../layouts/Main';
 
 export default function Home() {
   return (
@@ -12,14 +13,9 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <main className="bg-slate-900">
-        <div className="container lg:px-56 px-4">
-          <Header blogName={'Blog NextJS'} />
-          <Post />
-          <Footer />
-        </div>
-      </main>
+      <Main>
+        <Post />
+      </Main>
     </>
   );
 }
