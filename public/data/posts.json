@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "10 Extensions VS Code người mới học HTML&CSS cần phải biết",
+    "content": "Điều chính yếu của việc học lập trình đó chính là kiến thức về các ngôn ngữ, các công nghệ mới có trong mảng lập trình đó.\n\nTuy nhiên sau những khoảng thời gian tìm hiểu về syntax, những khái niệm lập trình nặng đô, những bài thuật toán \"nổ não\" thì bạn cũng có thể cho phép bản thân mình giải lao một chút với những thứ nhẹ nhàng hơn nhé!\n\nĐiều này không chỉ giúp việc học trở nên dễ thở hơn mà nó còn giúp quá trình chinh phục kiến thức của bạn trở nên thú vị hơn rất nhiều!\n\nNhư việc tìm hiểu những extension trong VS Code chẳng hạn. Nó không giúp bạn kiếm tiền ngay, nó cũng không phải thứ quan trọng nhất bạn cần học nhưng nó sẽ giúp bạn làm việc nhanh hơn và có cảm hứng hơn khi code.",
+    "image": "post1.png",
+    "author": "tuongho",
+    "created_at": "2022-12-29T17:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Top 10 kênh youtube bổ ích về ReactJS và phát triển web",
+    "content": "ReactJS là một trong những framework lập trình được các nhà phát triển quan tâm và yêu thích. Hiện nay, có rất nhiều kênh Youtube về ReactJS và các ngôn ngữ lập trình, ở đó bạn có thể học, trải nghiệm thực tế và phân tích chuyên sâu.\n\nĐiều đặc biệt là chúng hoàn toàn miễn phí, bạn có thể học bất cứ khi nào có thời gian. Trong bài viết này, 200Lab sẽ giới thiệu đến bạn top 10 kênh Youtube về ReactJS và phát triển web bổ ích mà bạn nên biết nếu bạn đang quan tâm đến framework ReactJS.",
+    "image": "post2.png",
+    "author": "tuongho",
+    "created_at": "2022-12-30T17:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Tại sao nên sử dụng ReactJS để phát triển website?",
+    "content": "Khi nhìn vào một website, bạn thấy điều gì thu hút bạn nhất? Phông chữ của website, giao diện người dùng hay những thiết kế? Hầu hết người dùng thích một website có giao diện người dùng thân thiện và dễ sử dụng, đó là nơi React xuất hiện.\n\nReactJS đã nổi lên như một trong những thư viện lớn nhất được các nhà phát triển và doanh nghiệp sử dụng trong vài năm qua. Trong bài viết này, chúng ta sẽ cùng tìm hiểu về những lý do vì sao ReactJS được xem là ngôn ngữ lập trình mà các developer nên lựa chọn trong tương lai.",
+    "image": "post3.png",
+    "author": "tuongho",
+    "created_at": "2022-12-31T17:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "ReactJS vs React Native - Gà cùng một mẹ liệu có giống nhau?",
+    "content": "Bạn có đang rối giữa ReactJS vs React Native? Nên chọn cái nào thì tốt hơn? Có thể tái sử dụng code của ReactJS cho React Native hay không? Hãy khám phá câu trả lời thông qua bài viết so sánh ReactJS vs React Native này bạn nhé!\n\nTrước khi đi vào so sánh chi tiết ReactJS vs React Native, hãy cùng tìm hiểu sơ qua lịch sử của hai công nghệ mạnh mẽ này.\n\nReactJS và React Native có một lịch sử khá là thú vị",
+    "image": "post4.png",
+    "author": "tuongho",
+    "created_at": "2023-01-01T17:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "Docker là gì? Khi nào nên dùng Docker?",
+    "content": "Docker là một trong những requirement xuất hiện liên tục trong những JD tuyển dụng backend developer trong những năm gần đây. Rồi nào là DevOps, rồi SRE, CI/CD đều cần phải biết Docker. Qua bài viết này mình hy vọng sẽ giúp các bạn hiểu được một chút về Docker và lý do tại sao lại cần nó như thế.",
+    "image": "post5.png",
+    "author": "tuongho",
+    "created_at": "2023-01-02T17:00:00.000Z"
+  }
+]
